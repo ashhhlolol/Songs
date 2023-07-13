@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">NDPSongs</string>
+    <string name="insert">INSERT</string>
+    <string name="show_list">SHOW LIST</string>
+    <string name="song_title">Song Title</string>
+    <string name="singers">Singers</string>
+    <string name="year">Year</string>
+    <string name="stars">Stars</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="cancel">CANCEL</string>
+</resources>
